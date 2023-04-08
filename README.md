@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muzaffer</h1>
+<img src="" width="auto">
 <h3 align="center">A passionate frontend developer from Sweden</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mzffrtp" alt="mzffrtp" /></a> </p>
 
 - 🔭 I’m currently working on **service provider website with redux tool kit and a blog website with redux.**
 
