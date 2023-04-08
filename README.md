@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muzaffer</h1>
-<img src="" width="auto">
 <h3 align="center">A passionate frontend developer from Sweden</h3>
 
 - 🔭 I’m currently working on **service provider website with redux tool kit and a blog website with redux.**
