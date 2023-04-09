@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muzaffer</h1>
 <h3 align="center">A passionate frontend developer from Sweden</h3>
+![githubgif](https://github.com/mzffrtp/mzffrtp/blob/main/githubgif.gif)
+
 
 - 🔭 I’m currently working on **service provider website with redux tool kit and a blog website with redux.**
 
