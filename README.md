@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Muzaffer</h1>
 <h3 align="center">A passionate frontend developer from Sweden</h3>
 <p align="center"><img src="https://github.com/mzffrtp/mzffrtp/blob/main/githubgif.gif" width="55%" height="50%"/></p>
+🔒 I care about what I do, right functioning code is nothing if I haven´t coded a user-friendly and doesn´t have a good impact on user.
 
+⚡ I am highly motivated, organized, and able to work well both independently and as part of a team, sharing knowledge is my favourite.
 
-- 🔭 I’m currently working on **service provider website with redux tool kit and a blog website with redux.**
+⏳ I am committed to staying up to date with the latest technologies and trends in web development to ensure the best outcomes.
 
-- 🌱 I’m currently learning **typescript**
+🔭 I’m currently working on service provider website with redux tool kit and a blog website with redux and learning **typescript**
 
-- 👯 I’m looking to collaborate on **react, redux, typescript projects.**
+🌱 I’m currently learning **typescript**
 
-- 💬 Ask me about **react, redux, redux toolkit.**
+👯 I’m looking to collaborate on **react, redux projects. 💬 Ask me about them.**
 
-- 📫 How to reach me **mzffr.tpgl@gmail.com**
+📫 How to reach me **mzffr.tpgl@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
