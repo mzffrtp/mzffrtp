@@ -9,7 +9,7 @@
 
 👯 I’m looking to collaborate on **fullstack projects. 💬 Ask me about them.**
 
-📫 How to reach me **mzffr.tpgl@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
