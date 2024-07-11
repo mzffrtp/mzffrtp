@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muzaffer</h1>
+<h1 align="center">Hi 👋
 <h3 align="center">A passionate developer from Sweden</h3>
 <p align="center"><img src="https://github.com/mzffrtp/mzffrtp/blob/main/githubgif.gif" width="30%" height="30%"/></p>
 🔒 I care about what I do, right functioning code is nothing if I haven´t coded a user-friendly and doesn´t have a good impact on user.
